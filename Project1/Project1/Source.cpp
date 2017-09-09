@@ -1,6 +1,5 @@
-int main(void) 
-{
-	int doYourEarsHangLowDoTheyWobbleToAndFro = 0;
-	bool canYouTieThemInAKnot = true;
+int main() {
+	int Schloprel;
+	int again;
 	return 0;
 }
